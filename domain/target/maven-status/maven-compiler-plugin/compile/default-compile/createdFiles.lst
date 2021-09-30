@@ -1,0 +1,4 @@
+com/material/management/domain/MaterialService.class
+com/material/management/domain/entities/Material.class
+com/material/management/domain/MaterialCommand.class
+com/material/management/domain/MaterialRepository.class

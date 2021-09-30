@@ -1,0 +1,3 @@
+com/material/management/restapi/MaterialApi.class
+com/material/management/database/MongoDbMaterialRepository.class
+com/material/management/restapi/MaterialRequest.class

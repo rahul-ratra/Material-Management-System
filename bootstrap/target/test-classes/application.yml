@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: material-management-service
+  jackson:
+    deserialization:
+      fail-on-unknown-properties: false
+    serialization:
+      write-dates-as-timestamps: false
+
+  data:
+    mongodb:
+      uri: mongodb://localhost/test
